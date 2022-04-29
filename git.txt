@@ -2,4 +2,4 @@ git config --global user.name "zlyeow"
 git config --global user.email "zl.yeow@gmail.com"
 git add .
 message = input("input your commit message")
-git commit -m message
+git commit -m {message}
