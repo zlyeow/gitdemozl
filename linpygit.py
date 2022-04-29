@@ -9,5 +9,5 @@ count = 0
 for each_line in every_lines:
     os.system(f"{each_line.strip()}")
 message = input("Please key your commit message here: ")
-os.system("git commit -m {message}")
-os.system("git push")
+os.system(f"git commit -m {message}")
+os.system(f"git push")
