@@ -3,4 +3,4 @@ git config --global user.email "zl.yeow@gmail.com"
 git add .
 git commit -m "Test"
 git remote add origin https://github.com/zlyeow/gitdemozl.git
-git push --set-upstream origin master
+git push
