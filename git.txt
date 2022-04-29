@@ -1,2 +1,4 @@
+git config --global user.name "zlyeow"
+git config --global user.email "zl.yeow@gmail.com"
 git add .
 git commit -m message
